@@ -1,7 +1,5 @@
 # Customer-Feedabck-Web-Application-Using-Python-PostgreSQL-Flask-and-Heroku
 
-# Indian Paper Curreny Prediction :india: 
-
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
@@ -22,7 +20,7 @@
 ## Demo
 Link: [https://lamborginifeedback.herokuapp.com/](https://lamborginifeedback.herokuapp.com/)
 
-[![](https://i.imgur.com/5gj4USj.png)](https://lamborginifeedback.herokuapp.com/)
+[![](images/form.png)](https://lamborginifeedback.herokuapp.com/)
 
 ## Overview
 This is a simple image classification Flask app trained on the top of Keras API. The trained model (`app/model/model.h5`) takes an image (Indian Paper Currency) as an input and predict the class of image from __10, 20, 50, 100, 200, 500, 2000__ denomination.
