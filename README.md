@@ -20,7 +20,7 @@
 ## Demo
 Link: [https://lamborginifeedback.herokuapp.com/](https://lamborginifeedback.herokuapp.com/)
 
-![](images/form.png)(https://lamborginifeedback.herokuapp.com/)
+![form](https://user-images.githubusercontent.com/37532698/108680763-b5306280-7507-11eb-86a3-c84884cd913a.jpg)(https://lamborginifeedback.herokuapp.com/)
 
 ## Overview
 This is a simple image classification Flask app trained on the top of Keras API. The trained model (`app/model/model.h5`) takes an image (Indian Paper Currency) as an input and predict the class of image from __10, 20, 50, 100, 200, 500, 2000__ denomination.
