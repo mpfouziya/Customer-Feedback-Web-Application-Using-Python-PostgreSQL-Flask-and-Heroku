@@ -3,7 +3,7 @@
 ## Demo
 Link: [https://lamborginifeedback.herokuapp.com/](https://lamborginifeedback.herokuapp.com/)
 
-[![form](https://user-images.githubusercontent.com/37532698/108680763-b5306280-7507-11eb-86a3-c84884cd913a.jpg)](https://lamborginifeedback.herokuapp.com/)
+[![form](https://user-images.githubusercontent.com/37532698/108682769-28d36f00-750a-11eb-9ece-6137abd84fd5.jpg)](https://lamborginifeedback.herokuapp.com/)
 
 ## Overview
 This is a simple customer feedback Flask app in Heroku using Python. The application uses PostgreSQL at the backend to save the data given into the form.
