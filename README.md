@@ -10,7 +10,7 @@ Link: [https://lamborginifeedback.herokuapp.com/](https://lamborginifeedback.her
 
 ## Technical Aspect
 This project is divided into two part:
-1. Creating the front end using HTML and CSS. Use SQLAlchemy as a layer of abstraction to PostgreSQL from Python.
+1. Creating the front end using [HTML](https://github.com/mpfouziya/Customer-Feedabck-Web-Application-Using-Python-PostgreSQL-Flask-and-Heroku/tree/main/CustomerFeedbackApp/template) and [CSS](https://github.com/mpfouziya/Customer-Feedabck-Web-Application-Using-Python-PostgreSQL-Flask-and-Heroku/tree/main/CustomerFeedbackApp/static). Use SQLAlchemy as a layer of abstraction to PostgreSQL from Python.
 2. Building and hosting the Flask web app on Heroku.
     
 
