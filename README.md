@@ -5,9 +5,9 @@ This is a simple customer feedback Flask app in Heroku using Python. The applica
 
 ## Demo
 Link: [https://lamborginifeedback.herokuapp.com/](https://lamborginifeedback.herokuapp.com/)
-<p align="center">
-[<img width="500" alt="postgreSQL" src="https://user-images.githubusercontent.com/37532698/108682769-28d36f00-750a-11eb-9ece-6137abd84fd5.jpg">](https://lamborginifeedback.herokuapp.com/)
-</p>
+[<p align="center">
+<img width="500" alt="postgreSQL" src="https://user-images.githubusercontent.com/37532698/108682769-28d36f00-750a-11eb-9ece-6137abd84fd5.jpg"></p>](https://lamborginifeedback.herokuapp.com/)
+
 ## Technical Aspect
 This project is divided into two part:
 1. Creating the front end using [HTML](https://github.com/mpfouziya/Customer-Feedabck-Web-Application-Using-Python-PostgreSQL-Flask-and-Heroku/tree/main/CustomerFeedbackApp/template) and [CSS](https://github.com/mpfouziya/Customer-Feedabck-Web-Application-Using-Python-PostgreSQL-Flask-and-Heroku/tree/main/CustomerFeedbackApp/static). Use SQLAlchemy as a layer of abstraction to PostgreSQL from Python.
