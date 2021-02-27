@@ -1,4 +1,4 @@
-# Customer-Feedabck-Web-Application-Using-Python-PostgreSQL-Flask-and-Heroku
+# Customer-Feedback-Web-Application-Using-Python-PostgreSQL-Flask-and-Heroku
 
 ## Overview
 This is a simple customer feedback Flask app in Heroku using Python. The application uses PostgreSQL at the backend to save the data given into the form.
