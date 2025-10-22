@@ -4,7 +4,7 @@
 This is a simple customer feedback Flask app in Heroku using Python. The application uses PostgreSQL at the backend to save the data given into the form.
 
 ## Demo
-Link: [https://lamborginifeedback.herokuapp.com/](https://lamborginifeedback.herokuapp.com/)
+
 [<p align="center">
 <img width="500" alt="postgreSQL" src="https://user-images.githubusercontent.com/37532698/108682769-28d36f00-750a-11eb-9ece-6137abd84fd5.jpg"></p>](https://lamborginifeedback.herokuapp.com/)
 
